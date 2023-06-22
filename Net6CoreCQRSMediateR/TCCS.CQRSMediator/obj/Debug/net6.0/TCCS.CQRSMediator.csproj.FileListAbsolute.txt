@@ -1,0 +1,15 @@
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\bin\Debug\net6.0\TCCS.CQRSMediator.deps.json
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\bin\Debug\net6.0\TCCS.CQRSMediator.dll
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\bin\Debug\net6.0\TCCS.CQRSMediator.pdb
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\bin\Debug\net6.0\TCCS.DataAccess.dll
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\bin\Debug\net6.0\TCCS.DataAccess.pdb
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\obj\Debug\net6.0\TCCS.CQRSMediator.csproj.AssemblyReference.cache
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\obj\Debug\net6.0\TCCS.CQRSMediator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\obj\Debug\net6.0\TCCS.CQRSMediator.AssemblyInfoInputs.cache
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\obj\Debug\net6.0\TCCS.CQRSMediator.AssemblyInfo.cs
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\obj\Debug\net6.0\TCCS.CQRSMediator.csproj.CoreCompileInputs.cache
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\obj\Debug\net6.0\TCCS.CQRSMediator.csproj.CopyComplete
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\obj\Debug\net6.0\TCCS.CQRSMediator.dll
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\obj\Debug\net6.0\refint\TCCS.CQRSMediator.dll
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\obj\Debug\net6.0\TCCS.CQRSMediator.pdb
+D:\Chaitali\Projects\.NET Projects\Net6CoreCQRSMediateR\TCCS.CQRSMediator\obj\Debug\net6.0\ref\TCCS.CQRSMediator.dll
